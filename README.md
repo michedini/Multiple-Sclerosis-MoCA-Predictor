@@ -14,7 +14,7 @@ paper (see [Publication](#publication)).
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 1. Open the [web app](https://cognitivescreening4ms.dpdns.org/).
 2. Enter **Age** (years), **Education** (years), and the **Raw MoCA score** (0–30).
@@ -23,14 +23,15 @@ paper (see [Publication](#publication)).
 </td>
 <td width="50%" valign="top">
 
-<img width="916" height="538" alt="image" src="https://github.com/user-attachments/assets/16f54c46-edee-4ffb-8e95-033bfd72dfbf" />
+<img width="916" height="301" alt="Screenshot of the app input section" src="https://github.com/user-attachments/assets/c7de2e83-0c29-4f58-87ac-31fbb792e731" />
+
 
 
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 **The calculator returns:**
 
@@ -47,7 +48,7 @@ read with extra caution.
 </td>
 <td width="50%" valign="top">
 
-<img width="920" height="811" alt="image" src="https://github.com/user-attachments/assets/647569fb-de2b-4f12-a0ef-6b9d8bc13a82" />
+<img width="920" height="811" alt="Screenshot of the app results section" src="https://github.com/user-attachments/assets/647569fb-de2b-4f12-a0ef-6b9d8bc13a82" />
 
 </td>
 </tr>
