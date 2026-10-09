@@ -56,24 +56,23 @@ read with extra caution.
 
 ## Publication
 
-> **[PAPER TITLE — TBD]**
-> [Author A], [Author B], ..., [Author N].
-> *[Journal name — TBD]*, [Year]. DOI: [10.xxxx/xxxxx — TBD]
-
-- Paper: [link to published article — TBD](#)
+> **A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis.**
+> Michelangelo Dini, Letizia Turchi, Giulia Gamberini, Alessandra Caporali, Giovanna Lucchini, Marta Tacchini, Luca Riccardo Chiveri, Mariaemma Rodegher, Letizia Leocani.
+> *Biomedicines*, 2026. DOI: https://doi.org/10.3390/biomedicines14102262
 
 If you use this calculator or model in your work, please cite the paper above.
 
 ```bibtex
-@article{TBD,
-  title   = {[PAPER TITLE]},
-  author  = {[Author A] and [Author B] and [Author N]},
-  journal = {[Journal name]},
-  year    = {[Year]},
-  volume  = {[Volume]},
-  pages   = {[Pages]},
-  doi     = {[10.xxxx/xxxxx]}
-}
+@Article{biomedicines14102262,
+AUTHOR = {Dini, Michelangelo and Turchi, Letizia and Gamberini, Giulia and Caporali, Alessandra and Lucchini, Giovanna and Tacchini, Marta and Chiveri, Luca Riccardo and Rodegher, Mariaemma and Leocani, Letizia},
+TITLE = {A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis},
+JOURNAL = {Biomedicines},
+VOLUME = {14},
+YEAR = {2026},
+NUMBER = {10},
+ARTICLE-NUMBER = {2262},
+URL = {https://www.mdpi.com/2227-9059/14/10/2262},
+ISSN = {2227-9059}
 ```
 
 ## Disclaimer
