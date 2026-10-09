@@ -55,10 +55,8 @@ read with extra caution.
 </table>
 
 ## Publication
+> Dini, M., Turchi, L., Gamberini, G., Caporali, A., Lucchini, G., Tacchini, M., Chiveri, L. R., Rodegher, M., & Leocani, L. (2026). A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis. Biomedicines 2026, Vol. 14, Page 2262, 14(10), 2262. https://doi.org/10.3390/BIOMEDICINES14102262
 
-> **A Feasible Machine Learning Approach to Improve Cognitive Screening in Multiple Sclerosis.**
-> Michelangelo Dini, Letizia Turchi, Giulia Gamberini, Alessandra Caporali, Giovanna Lucchini, Marta Tacchini, Luca Riccardo Chiveri, Mariaemma Rodegher, Letizia Leocani.
-> *Biomedicines*, 2026. DOI: https://doi.org/10.3390/biomedicines14102262
 
 If you use this calculator or model in your work, please cite the paper above.
 
